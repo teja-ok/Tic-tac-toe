@@ -4,9 +4,7 @@ using namespace std;
 
 int main()
 {
-    int n;
-    cout<<"enter size of grid:"<<endl;
-    cin>>n;
+    int n=3;
     int row[n]={0};
     int column[n]={0};
     int d[2]={0};
